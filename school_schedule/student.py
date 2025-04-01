@@ -18,6 +18,3 @@ class Student:
         return (f"{self.name} is a {self.grade} "
             f"enrolled in {self.get_num_classes()} classes: "
             f"{self.display_classes()}")
-        
-        
-    
